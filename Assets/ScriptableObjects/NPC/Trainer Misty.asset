@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97070c5bd49241247b5fcfc4dfd0b1c9, type: 3}
+  m_Name: Trainer Misty
+  m_EditorClassIdentifier: 
+  npcName: Misty
+  npcMonsters:
+  - {fileID: 11400000, guid: 3532c07a859857e449931b77d60c1313, type: 2}
